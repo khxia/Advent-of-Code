@@ -71,5 +71,3 @@ int main() {
     cout << "Trees 2: " << total << endl;
     return 0;
 }
-
-//..##.......#..##.......#
